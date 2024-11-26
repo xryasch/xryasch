@@ -1,5 +1,5 @@
--  Привет, я xryasch
--  Занимаюсь программированием уже 2 года на пайтоне
+- Hello, I'm xryasch
+- I have been programming for 2 years in Python
 
 <!---
 xryasch/xryasch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
